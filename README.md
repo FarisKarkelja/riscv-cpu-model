@@ -1,7 +1,5 @@
 # Instruction-Set-Design-RISC-V
 
-# RISC-V 32-bit CPU Model and ISA
-
 ## Table of Contents
 
 - [Description](#description)
